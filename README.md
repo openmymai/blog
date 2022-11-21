@@ -11,3 +11,13 @@ This provides a much better experience for users.
 A scalable microservices architecture (MSA) is the optimal architecture for complex event-driven backend services. 
 These event-driven microservices can act as event subscribers or publishers in order to process events, handle errors, 
 and persist event-driven states.
+
+### Remaining topics
+- Moderation
+- Comment Status Rendering
+- Missing Events Dealing
+- Event Sync
+
+### Next Steps
+- Docker services
+- Ochestrating with Kubernetes
